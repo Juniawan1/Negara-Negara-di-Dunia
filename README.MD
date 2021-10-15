@@ -4,6 +4,9 @@
 ![mockup aplikasi](https://user-images.githubusercontent.com/89622887/137319366-51d26b2a-a8ec-4d02-a099-c6a6a3bf0c6e.png)
 ![aplikasi](https://user-images.githubusercontent.com/89622887/137319495-0993917d-8575-4e93-a450-21bb0b43b101.png)
 
+### link presentasi ide aplikasi
+https://drive.google.com/file/d/10WdJf5_sMcKalpsxXm5yHpZq0evZZ9r4/view?usp=sharing
+
 
 ### Built With
 - widget route dan navigation , scrolling, Image 
